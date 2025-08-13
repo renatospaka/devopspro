@@ -14,3 +14,4 @@ Todos os desafios devem ser entregues em um repositório no GitHub.
 ### Desafios
 
 - [Desafio 1](01-primeiro-container/README.md)
+- [Desafio 2](02-container-logs/README.md)
