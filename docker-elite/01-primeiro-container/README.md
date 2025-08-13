@@ -1,7 +1,6 @@
 ## Desafio 1
 
 ### Introdução
-Desafio 1
 
 O CTO precisa que a equipe tenha um contato inicial com Docker. Mas ninguém quer parar o que está fazendo para aprender algo "difícil". Então, seu primeiro desafio é mostrar como rodar um container na prática e quebrar esse mito.
 
